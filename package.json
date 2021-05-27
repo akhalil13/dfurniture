@@ -1,0 +1,10 @@
+{
+  "name":"dfurniture",
+  "version": "1.0.0",
+  "description": "a simple app to test html",
+  "main":"index.php",
+  "author": "amjad",
+  
+  "private":false
+  
+}
